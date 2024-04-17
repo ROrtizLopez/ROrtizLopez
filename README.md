@@ -5,7 +5,7 @@ I'm a dedicated Full Stack Developer committed to continuous growth and learning
 
 My training as Full Stack Developer, combined with my professional experience as a graduate in Communication Sciences, has allowed me to cultivate skills such as teamwork, attention to detail, and organization, ensuring success in achieving goals in projects and tasks 🤓
 
-Currently, I'm devoted to refining my technical skills and knowledge, delving deeper into the Back-End world 🖤
+Currently, I'm devoted to refining my technical skills and knowledge, delving deeper into the Front-End world 🖤
 
 ## Tech Skills 💻
 <p align="left">
